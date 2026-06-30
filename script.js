@@ -132,7 +132,7 @@ contactForm.addEventListener('submit', (e) => {
     const message = document.getElementById('message').value;
 
     // Create mailto link with form data
-    const mailtoLink = `mailto:meetwithkiranshahzadi@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`)}`;
+    const mailtoLink = `mailto:meetwithghazalshahzadi@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`)}`;
 
     // Open mail client
     window.location.href = mailtoLink;
@@ -196,4 +196,4 @@ const currentYear = new Date().getFullYear();
 document.querySelector('.footer p').textContent = `© ${currentYear} Kiran Shahzadi. All rights reserved.`;
 
 console.log('Portfolio website loaded successfully!');
-console.log('Designed for Kiran Shahzadi - Mother Tongue Teacher & Study Guidance Specialist');
+console.log('Designed for Ghazal Shahzadi - Mother Tongue Teacher & Study Guidance Specialist');
