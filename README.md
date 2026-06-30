@@ -1,4 +1,4 @@
-# Kiran Shahzadi - Professional Portfolio Website
+# Ghazal Shahzadi - Professional Portfolio Website
 
 A modern, responsive portfolio website showcasing professional experience as a Mother Tongue Teacher and Study Guidance Specialist.
 
@@ -75,8 +75,8 @@ Insert an image in the hero section:
 ## 📧 Contact Information
 
 - **Email**: meetwithkiranshahzadi@gmail.com
-- **Phone**: +92-308-6088699
-- **Location**: Sweden (Job seeker Visa)
+- **Phone**: +92-300-6600000
+- **Location**: Pakistan
 
 ## 📄 License
 
@@ -84,4 +84,4 @@ Insert an image in the hero section:
 
 ---
 
-**Built with ❤️ for professional teaching opportunities in Sweden**
+**Built with ❤️ for professional teaching opportunities in Pakistan**
